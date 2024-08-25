@@ -1,0 +1,14 @@
+D:\Lyrics\bin\Debug\net8.0\Lyrics.exe
+D:\Lyrics\bin\Debug\net8.0\Lyrics.deps.json
+D:\Lyrics\bin\Debug\net8.0\Lyrics.runtimeconfig.json
+D:\Lyrics\bin\Debug\net8.0\Lyrics.dll
+D:\Lyrics\bin\Debug\net8.0\Lyrics.pdb
+D:\Lyrics\obj\Debug\net8.0\Lyrics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lyrics\obj\Debug\net8.0\Lyrics.AssemblyInfoInputs.cache
+D:\Lyrics\obj\Debug\net8.0\Lyrics.AssemblyInfo.cs
+D:\Lyrics\obj\Debug\net8.0\Lyrics.csproj.CoreCompileInputs.cache
+D:\Lyrics\obj\Debug\net8.0\Lyrics.dll
+D:\Lyrics\obj\Debug\net8.0\refint\Lyrics.dll
+D:\Lyrics\obj\Debug\net8.0\Lyrics.pdb
+D:\Lyrics\obj\Debug\net8.0\Lyrics.genruntimeconfig.cache
+D:\Lyrics\obj\Debug\net8.0\ref\Lyrics.dll
